@@ -1,6 +1,8 @@
 ﻿# lobin
 
-This repository contains early architectural prototype code developed in Rust prior to the transition to C++.
+This repository contains the initial architectural prototype code, which was developed in Rust before the project transitioned to C++.
+
+This repository has been archived.
 
 The license is AGPL v3.
 
